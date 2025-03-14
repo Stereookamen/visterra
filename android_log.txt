@@ -1,0 +1,11 @@
+﻿Java HotSpot(TM) 64-Bit Server VM warning: Attempt to query job object information failed: Параметр задан неверно
+Java HotSpot(TM) 64-Bit Server VM warning: Attempt to query job object information failed: Параметр задан неверно
+Java HotSpot(TM) 64-Bit Server VM warning: Attempt to query job object information failed: Параметр задан неверно
+Java HotSpot(TM) 64-Bit Server VM warning: Attempt to query job object information failed: Параметр задан неверно
+Java HotSpot(TM) 64-Bit Server VM warning: Attempt to query job object information failed: Параметр задан неверно
+I: Using Apktool 2.4.0
+brut.directory.PathNotExist: apktool.yml
+------------------------------
+Ошибка при компиляции!
+------------------------------
+Файл находится в 
